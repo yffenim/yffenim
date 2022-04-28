@@ -1,4 +1,4 @@
-Hi, I'm Effy and I make things happen.
+Hi! I'm Effy and I make things happen.
 
 https://write.as/riwq8jhgr1j0tw6q.md
 
