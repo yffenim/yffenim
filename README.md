@@ -1,11 +1,10 @@
 Hi! I'm Effy & I make things happen.
 
+https://yffenim.github.io/effy/
+
 https://write.as/riwq8jhgr1j0tw6q.md
 
 https://www.linkedin.com/in/effy-min-25156a228/
-
-https://yffenim.github.io/effy/
-
 
 
 <!--
