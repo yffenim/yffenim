@@ -1,10 +1,18 @@
 Hi! I'm Effy & I make things happen.
 
-https://yffenim.github.io/effy/
+Ex-activist, here (in tech) for impact.
 
-https://write.as/riwq8jhgr1j0tw6q.md
+Connect with me! :) I'm very chatty: https://www.linkedin.com/in/effy-min-25156a228/
 
-https://www.linkedin.com/in/effy-min-25156a228/
+- 🔭 I’m currently working on ... prototyping things and automating things
+- 🌱 I’m currently learning ... typescript, next.js, python
+- 👯 I’m looking to collaborate on ... climate change, digital/privacy rights, anti-racism, gender-based violence, really anything that matters beyond revenue generation
+- 🤔 I’m looking for help with ... everything
+- 💬 Ask me about ... movement, literature, and surveillance capitalism
+- 📫 How to reach me: ... xxcyberca@gmail.com
+- 😄 Pronouns: ... she/her or they/them
+- ⚡ Fun fact: ... misthropic and grumpy -- is that fun?
+
 
 
 <!--
