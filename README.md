@@ -7,11 +7,11 @@ Connect with me! :) I'm very chatty: https://www.linkedin.com/in/effy-min-25156a
 - 🔭 I’m currently working on ... prototyping things and automating things
 - 🌱 I’m currently learning ... typescript, next.js, python; studying AWS solutions architect (associate + pro)
 - 👯 I’m looking to collaborate on ... climate change, digital/privacy rights, anti-racism, gender-based violence, really anything that matters beyond revenue generation
-- 🤔 I’m looking for help with ... everything
+- 🤔 I’m looking for help with ... everything; esp system design
 - 💬 Ask me about ... movement, literature, and surveillance capitalism
 - 📫 How to reach me: ... xxcyberca@gmail.com
 - 😄 Pronouns: ... she/her or they/them
-- ⚡ Fun fact: ... misthropic and grumpy -- is that fun?
+- ⚡ Fun fact: ... misanthropic and grumpy -- is that fun?
 
 
 
