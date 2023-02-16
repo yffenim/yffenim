@@ -9,7 +9,7 @@ Connect with me! :) I'm very chatty: https://www.linkedin.com/in/effy-min-25156a
 - 👯 I’m looking to collaborate on ... climate change, digital/privacy rights, infosec tools, anti-o, gender-based violence, really anything that matters beyond revenue generation
 - 🤔 I’m looking for help with ... everything system design/infra
 - 💬 Ask me about ... movement, literature, and surveillance capitalism
-- 📫 How to reach me: ... xxcyberca@gmail.com
+- 📫 How to reach me: ... OSINT
 - 😄 Pronouns: ... she/her or they/them
 - ⚡ Fun fact: ... misanthropic bee
 
