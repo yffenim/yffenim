@@ -1,6 +1,6 @@
 Hi! I'm Effy & I make things happen.
 
-Current "security engineer". Ex-activist, here for impact.
+"Security engineer" building tools. Ex-activist, here for impact.
 
 Connect with me! :) I'm very chatty: https://www.linkedin.com/in/effy-min-25156a228/
 
