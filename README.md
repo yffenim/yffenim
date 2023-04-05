@@ -1,11 +1,11 @@
 Hi! I'm Effy & I make things happen.
 
-"Security engineer" building tools. Ex-activist, here for impact.
+DevSecOps, AppSec, Software Dev. Ex-activist, here for impact.
 
 Connect with me! :) I'm very chatty: https://www.linkedin.com/in/effy-min-25156a228/
 
-- 🔭 I’m currently working on ... programming, devsecops, and AWS
-- 🌱 I’m currently learning ... OOP design patterns, app sec, cloud sec, CICD automations
+- 🔭 I’m currently working on ... Terraform & AWS
+- 🌱 I’m currently learning ... OOP design patterns in C#
 - 👯 I’m looking to collaborate on ... climate change, digital/privacy rights, infosec tools, anti-o, gender-based violence, really anything that matters beyond revenue generation
 - 🤔 I’m looking for help with ... everything system design/infra
 - 💬 Ask me about ... movement, literature, and surveillance capitalism
