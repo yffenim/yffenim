@@ -7,11 +7,11 @@ Connect with me! :) I'm very chatty: https://www.linkedin.com/in/efmin
 - 🔭 I’m currently working on ... learning DevOps since y'all invented this "DevSecOps" combo of app sec with DevOps... >:(
 - 🌱 I’m currently learning ... DevOps, Observability, improving my Ruby
 - 👯 I’m looking to collaborate on ... climate change, digital/privacy rights, infosec tools, finding talent in impoverished nations, really anything that matters beyond revenue generation
-- 🤔 I’m looking for help with ... system design - how to think about scale at the beginning?
+- 🤔 I’m looking for help with ... why middle mgmt is full of [redacted]
 - 💬 Ask me about ... movement, literature, and surveillance capitalism
 - 📫 How to reach me: ... OSINT
 - 😄 Pronouns: ... she/her or they/them
-- ⚡ Fun fact: ... mostly a misanthropic betch
+- ⚡ Fun fact: ... I'm grumpy :)))
 
 
 
